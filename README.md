@@ -35,7 +35,7 @@ https://verifier.ton.org/EQA8Mx1E9_RXEroXSW7PI5EHwEAMxAMhwKLXTlKX-3uQOJWy
 
 ## Trade ASRA
 
-- **STON.fi**: Trade ASRA/TON pair
+- **STON.fi**: https://app.ston.fi/swap?chartVisible=true&chartInterval=24h&ft=TON&tt=EQA8Mx1E9_RXEroXSW7PI5EHwEAMxAMhwKLXTlKX-3uQOJWy
 - **DYOR**: https://dyor.io/ru/token/EQA8Mx1E9_RXEroXSW7PI5EHwEAMxAMhwKLXTlKX-3uQOJWy
 
 ## Links
